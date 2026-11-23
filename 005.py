@@ -27,3 +27,4 @@ while opcao != -1:
 print("\n===== RESUMO DA COMPRA =====")
 print(f"Valor total: R$ {total:.2f}")
 print("Obrigado pela preferência!")
+
